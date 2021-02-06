@@ -1,5 +1,0 @@
-C:\Users\Jonathan\source\repos\grocery-market\grocery-market\bin\Debug\grocery-market.dll
-C:\Users\Jonathan\source\repos\grocery-market\grocery-market\bin\Debug\grocery-market.pdb
-C:\Users\Jonathan\source\repos\grocery-market\grocery-market\obj\Debug\grocery-market.csproj.CoreCompileInputs.cache
-C:\Users\Jonathan\source\repos\grocery-market\grocery-market\obj\Debug\grocery-market.dll
-C:\Users\Jonathan\source\repos\grocery-market\grocery-market\obj\Debug\grocery-market.pdb
